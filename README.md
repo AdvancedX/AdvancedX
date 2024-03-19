@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @AdvancedX
-- 👀 I’m interested in JavaWeb Project | Go | Computer Graphics
-- 🌱 I’m currently learning Computer Science and Technology
-- 📫 How to reach me @XuperiorX | advancedxzr@foxmail.com
+# Hello, I'm AdvancedX! 👋
 
-<!---
-AdvancedX/AdvancedX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile views](https://gpvc.arturio.dev/AdvancedX)
+
+I'm a Computer Science and Technology student, interested in Machine Learning, Web Development and Microservices with Go.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdvancedX&show_icons=true&theme=blue-green)
+
+## Skills and Experience
+* 💻 Java | C++ | Go | Python
+* 📊 Machine Learning
+* 🌐 Web Development
+* 🚀 Microservices with Go
+
+## Projects and Contributions
+* [Machine Learning](https://github.com/AdvancedX/MachineLearning)
+
+## Contact Me
+* 📧 Email: advancedxzr@foxmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvancedX&layout=compact&theme=blue-green)
+
