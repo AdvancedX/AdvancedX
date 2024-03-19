@@ -1,6 +1,7 @@
 # Hello, I'm AdvancedX! 👋
 
-![Profile views](https://gpvc.arturio.dev/AdvancedX)
+![Visitor Count](https://profile-counter.glitch.me/AdvancedX/count.svg)
+
 
 I'm a Computer Science and Technology student, interested in Machine Learning, Web Development and Microservices with Go.
 
