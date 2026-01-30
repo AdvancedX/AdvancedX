@@ -9,6 +9,6 @@ Currently a postgraduate student in PolyU, interested in Blockchain Technology, 
 * 🚀 Microservices with Go
 
 ## Contact
-* 📧 Email: advancedxzr@foxmail.com
+* 📧 Email: advancedx@foxmail.com
 
 
