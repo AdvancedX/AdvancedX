@@ -12,7 +12,7 @@ High-performance system development for mission-critical operations:
 
 #### ⛓️ Web3 & Blockchain Security
 Master in Blockchain Technology:
-- **Transaction Simulation**: Proficient in **Transaction Imitation Attacks** and developing simulation tools to identify on-chain opportunities.
+- **Web 3 Infrastructure**: Proficient in **Lending & Borrowing Pool**, **NFT Market** & **Web 3 Security**.
 
 ---
 
