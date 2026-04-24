@@ -1,6 +1,7 @@
 # 👋 Hello, I'm AdvancedX
 
-🚀 **Java Backend Engineer | Web3 & Payment Infrastructure** 📍 **Hong Kong 🇭🇰**
+🚀 **Java Backend Engineer | Web3 & Payment Infrastructure** 
+📍 **Hong Kong 🇭🇰**
 
 ---
 
