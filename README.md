@@ -35,7 +35,7 @@ Driving the core infrastructure for one of the world's leading cryptocurrency pl
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Backend** | Python (pyenv), Golang, Java, Microservices, Idempotency, Git Workflow |
+| **Backend** | Python (pyenv), Golang, Java, Microservices, Git Workflow |
 | **Web3/DeFi** | Ethereum Infrastructure, MEV Strategy, PBS, Smart Contract Security |
 | **Environment** | macOS, Docker, Whisky/Winetricks (Cross-platform compatibility) |
 | **AI/Art** | SD Prompt Engineering, AI-Driven Visual Creation (ACG Stylized) |
