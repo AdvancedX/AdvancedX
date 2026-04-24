@@ -1,20 +1,18 @@
-# 👋 Hello, I'm Jerry Xu (AdvancedX)
+# 👋 Hello, I'm AdvancedX
 
-🚀 **Backend Engineer | Web3 Payment Infrastructure Engineer** 📍 Based in **Hong Kong 🇭🇰**
+🚀 **Java Backend Engineer | Web3 & Payment Infrastructure** 📍 **Hong Kong 🇭🇰**
 
 ---
 
 ### 🛠️ Professional Focus
 
-#### 💳 Web3 Exchange - Payment Backend Development
-Driving the core infrastructure for one of the world's leading cryptocurrency platforms:
-- **High-Concurrency Payment Gateways**: Designing and maintaining robust payment pipelines with a focus on **System Idempotency**, distributed transactions, and financial security.
-- **Web3 Asset Integration**: Architecting the bridge between blockchain assets and fiat settlement systems, ensuring high-stability fund flows.
-- **System Optimization**: Leading microservices refactoring and performance tuning to handle massive throughput while maintaining strict security standards.
+#### ☕ Java Backend & Financial Clearing
+High-performance system development for mission-critical operations:
+- **Clearing & Settlement Systems**: Architecting robust engines with a focus on **System Idempotency**, distributed consistency, and financial data integrity.
 
-#### ⛓️ Blockchain & Ethereum Research
-- **MEV & PBS Researcher**: Deep diving into **Proposer-Builder Separation (PBS)** and the **Maximal Extractable Value (MEV)** ecosystem.
-- **On-chain Security**: Analyzing advanced strategies including Transaction Imitation Attacks and Rebasing Backrun Arbitrage.
+#### ⛓️ Web3 & Blockchain Security
+Master in Blockchain Technology:
+- **Transaction Simulation**: Proficient in **Transaction Imitation Attacks** and developing simulation tools to identify on-chain opportunities.
 
 ---
 
@@ -27,23 +25,13 @@ Driving the core infrastructure for one of the world's leading cryptocurrency pl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvancedX&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="180px" />
 </p>
 
-> **Note**: To reflect full productivity, private contributions are included in the stats above.
-
 ---
 
 ### 💻 Technical Stack
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Backend** | Python (pyenv), Golang, Java, Microservices, Git Workflow |
-| **Web3/DeFi** | Ethereum Infrastructure, MEV Strategy, PBS, Smart Contract Security |
-| **Environment** | macOS, Docker, Whisky/Winetricks (Cross-platform compatibility) |
-| **AI/Art** | SD Prompt Engineering, AI-Driven Visual Creation (ACG Stylized) |
-
----
-
-### 📩 Get in Touch
-- **GitHub**: [AdvancedX](https://github.com/AdvancedX)
-- **Status**: Building the future of decentralized payments... `while(true) { build(); }`
-
----
+| **Backend** | **Java (Primary)**, Python, Golang, Spring Boot, Distributed Systems |
+| **Web3** | MEV Strategy, Transaction Simulation, On-chain Data Analysis |
+| **Tools** | macOS, Docker, Git Workflow, Whisky/Winetricks, Pandoc |
+| **AI Art** | Stable Diffusion, Prompt Engineering (ACG & Stylized Visuals) |
